@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+I'm **oh-rio**, nice to meet you all.
+I'm currently in college and i look forward to actually taking interest in what i'm learning instead of watching youtube videos all day.
+I can help you with things regarding philosophy, after all computer science and morality go hand in hand, even more so than mathematics (maths boo).
+I hope no one sees this.
+And finally, *carpe diem* or something like that. 
 <!--
 **Oh-rio/Oh-rio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
